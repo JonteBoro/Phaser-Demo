@@ -1,10 +1,10 @@
 {
-  "name": "starshake",
-  "productName": "Starshake",
+  "name": "phaser-demo",
+  "productName": "Phaser-Demo",
   "main": "index.html",
   "type": "module",
   "window": {
-    "title": "Generic - by Pello",
+    "title": "",
     "width": 800,
     "height": 600,
     "fullscreen": false,
@@ -12,17 +12,15 @@
     "icon": "customIcon.png"
   },
   "version": "0.0.1",
-  "description": "Generic game for jam",
+  "description": "First phaser game",
 
   "repository": {
-    "url": "https://github.com/phaserjs/phaser-by-example"
+    "url": "https://github.com/JonteBoro/phaser-demo"
   },
   "license": "MIT",
   "keywords": [
     "phaser",
-    "games",
-    "book",
-    "pello"
+    "games"
   ],
   "scripts": {
     "dev": "vite --config vite/config.dev.mjs",
